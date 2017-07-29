@@ -1,0 +1,18 @@
+Commands used in whole application
+----------------------------------
+  mkdir contactlist - created a folder for the application
+  npm init - to initialize the npm
+  npm install express --save -added express package to the package.json
+  npm install mongoose cors body-parser --save - added mongoose(MongoDB package), cors(to bind between client and server), body-parser(to render json) to the application
+  node app.js - created the root or main file of the applicatin
+  npm -g install nodemon - added nodemon package to make server autorestart on making changes to the code
+  nodemon - started nodemon to run npm server - locahost:3000
+  brew services start mongodb - started  mongodb database
+  npm install -g @angular/cli - Intsalled angular cli package to build client application
+  ng new client - created new client application
+  cd client - to get in to client folder
+  ng g component contacts - created new component for the client application
+  ng g service contact - created service as client
+  npm start - to the client server = localhost:4200
+
+-----
